@@ -1,0 +1,2 @@
+1.运行win-x64文件夹中的PornhubApp.exe
+2.浏览器访问https://cn.pornhub.com/ (会告诉你隐私错误,继续访问就好,不影响)

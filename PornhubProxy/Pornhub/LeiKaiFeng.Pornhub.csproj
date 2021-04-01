@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>1.0.8</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LeiKaiFeng.Http" Version="1.6.2" />
+  </ItemGroup>
+
+</Project>
